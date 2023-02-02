@@ -1,3 +1,5 @@
+# services
+
 companies in the corporate world are transitioning to a business model based on digital. this process is know as “digital transformation”.
  
 more and more they are becoming "tech companies" regardless of the original industry the were born into. 
